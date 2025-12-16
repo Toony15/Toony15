@@ -1,6 +1,6 @@
 ## Hi, saya Toony 👋
 
-🎓 **Mahasiswa Aktif Telkom University**  
+ **Mahasiswa Aktif Telkom University**  
 Program Studi **Diploma 3 Rekayasa Perangkat Lunak Aplikasi**
 
 ---
@@ -20,7 +20,7 @@ Saya bersemangat untuk terus berkembang melalui **proyek-proyek praktis**, disku
 
 ---
 
-## 🔍 Minat & Fokus
+##  Minat & Fokus
 - Exploratory Data Analysis (EDA)
 - Data Visualization & Storytelling
 - Customer Behavior & Churn Analysis
@@ -30,7 +30,7 @@ Saya bersemangat untuk terus berkembang melalui **proyek-proyek praktis**, disku
 
 ---
 
-## 🛠️ Tools & Teknologi
+##  Tools & Teknologi
 - **Python**
 - **Pandas**
 - **Matplotlib**
@@ -40,18 +40,16 @@ Saya bersemangat untuk terus berkembang melalui **proyek-proyek praktis**, disku
 
 ---
 
-## 📂 Portofolio
+##  Portofolio
 Beberapa project yang saya kerjakan berfokus pada:
 - Analisis data bisnis
 - Customer churn analysis
 - Data preprocessing & feature engineering
 - Visualisasi data untuk insight bisnis
 
-📌 Silakan cek repository saya untuk melihat project yang sedang dan telah dikerjakan.
 
----
 
-## 🚀 Tujuan Karier
+##  Tujuan Karier
 Saya tertarik untuk berkembang sebagai:
 - **Data Analyst**
 - **Data Scientist (Entry Level)**
